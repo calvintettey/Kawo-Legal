@@ -1,0 +1,64 @@
+.navstuff {
+	background-color: rgb(59, 12, 12);
+	height: 100px;
+}
+
+.brand-img {
+	height: 70px;
+}
+
+.navstuff-pills {
+	color: #D14233;
+	background-color: transparent;
+	margin-top: 13px;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    color: #D14233;
+	background-color: transparent;
+	border: 1px solid #D14233;
+	border-radius: 0px;
+}
+
+.searchrow {
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+.listing {
+	margin-bottom: 60px;
+}
+
+.start-logo {
+	height: 100px;
+}
+
+.start-name {
+	color: #337ab7;
+}
+
+.start-detail {
+	margin-top: 6px;
+	margin-bottom: 10px;
+}
+
+.start-content {
+	border-bottom: 1px solid lightgrey;
+}
+
+.sleekjob-logo {
+	height: 40px;
+}
+
+
+.footer {
+	background-color: rgb(59, 12, 12);
+	color: white;
+	margin-top: 10px;
+	padding: 15px;
+	height: 45px;
+}
+
+.icon {
+	margin-left: 20px;
+}
